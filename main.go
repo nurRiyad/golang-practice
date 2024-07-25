@@ -40,5 +40,6 @@ func main() {
 	// defer_test()
 	// closures_test()
 	// pointer_test()
+	go_routine()
 
 }
